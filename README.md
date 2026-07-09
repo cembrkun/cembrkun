@@ -44,6 +44,12 @@ I'm a Computer Programming graduate passionate about web development and continu
 ---
 ⭐ I enjoy learning new technologies and building projects to improve my skills.
 
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cembrkun&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cembrkun&layout=compact)
+
 <!--
 **cembrkun/cembrkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
