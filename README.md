@@ -1,5 +1,9 @@
 # Hi there 👋 I'm Cem Burak Ün
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Junior+Software+Developer;Frontend+Developer;Learning+React" />
+</p>
+
 ## 💻 Junior Software Developer
 
 I'm a Computer Programming graduate passionate about web development and continuously improving my software development skills.
@@ -17,15 +21,9 @@ I'm a Computer Programming graduate passionate about web development and continu
 
 ## 🛠️ Technologies
 
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- SQL
-- MySQL
-- Visual Studio Code
-- Visual Studio
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,mysql,vscode,visualstudio,git,github" />
+</p>
 ---
 
 ## 📚 Currently Learning
@@ -39,7 +37,16 @@ I'm a Computer Programming graduate passionate about web development and continu
 ## 📫 Contact
 
 - 📍 Istanbul, Türkiye
-- 💼 LinkedIn: *(https://www.linkedin.com/in/cemburakun/)*
+- 💼 LinkedIn: ### 📫 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/cemburakun">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="mailto:cemburakun@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
 
 ---
 ⭐ I enjoy learning new technologies and building projects to improve my skills.
