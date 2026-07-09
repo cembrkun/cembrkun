@@ -24,7 +24,7 @@ I'm a Computer Programming graduate passionate about web development and continu
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,mysql,vscode,visualstudio,git,github" />
 </p>
----
+
 
 ## 📚 Currently Learning
 
